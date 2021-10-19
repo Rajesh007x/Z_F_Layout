@@ -38,6 +38,11 @@
 }
 .msdos {
   position: absolute;
-  top: 570px;
-  right: 108px;
+  top: 470px;
+  right: 298px;
+}
+.netscape {
+  position: absolute;
+  top: 740px;
+  right: 798px;
 }

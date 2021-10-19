@@ -32,6 +32,12 @@
 }
 
 .xcoffee {
-  float: right;
-  margin-left: 30px;
+  position: absolute;
+  top: 270px;
+  right: 108px;
+}
+.msdos {
+  position: absolute;
+  top: 570px;
+  right: 108px;
 }
